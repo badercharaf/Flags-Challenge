@@ -1,0 +1,13 @@
+[{
+"old":"update",
+"current":"working",
+"link":"https://flags-challenge.en.uptodown.com/android/download",
+"version":"1.2",
+"size":"1.8MB",
+"start":"https://flagcdn.com/256x192/",
+"end":".png",
+"codes":"https://bit.ly/BC-country-codes",
+"correct":"https://raw.githubusercontent.com/badercharaf/JSON/main/ic_correct.png",
+"incorrect":"https://raw.githubusercontent.com/badercharaf/JSON/main/ic_incorrect.png",
+"skip":"https://raw.githubusercontent.com/badercharaf/JSON/main/ic_skip.png"
+}]
